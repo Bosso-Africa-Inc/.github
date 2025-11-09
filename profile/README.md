@@ -48,7 +48,7 @@ Join us and help shape the future of how Africa builds.
 - **info@thebosso.com**  
 - **support@thebosso.com**
 
-🌐 Visit us: [https://thebosso.com](https://thebosso.com)
+🌐 Visit us: [https://getbosso.com](https://getbosso.com)
 
 ---
 
@@ -64,9 +64,9 @@ Let’s make construction **simple, transparent, and intelligent — together.**
 
 | Platform | Link |
 |-----------|------|
-| 🌍 Website | [https://thebosso.com](https://thebosso.com) |
+| 🌍 Website | [https://getbosso.com](https://getbosso.com) |
 | 💼 LinkedIn | [Bosso Africa](https://zm.linkedin.com/company/bosso) |
-| 📱 X (Twitter) | [@BossoAfrica](https://x.com/BossoAfrica) |
+| 📱 X (Twitter) | [@Bosso_AI](https://x.com/Bosso_AI) |
 | 📸 Instagram | [@bossoafrica](https://www.instagram.com/bossoafrica/) |
 | 👍 Facebook | [Bosso Africa](https://www.facebook.com/BossoAfrica/) |
 | ✉️ Email | [info@thebosso.com](mailto:info@thebosso.com) / [support@thebosso.com](mailto:support@thebosso.com) |
